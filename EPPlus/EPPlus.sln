@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPPlus", "EPPlus.csproj", "{BE4A6343-F411-44A3-8D6F-F40747ED7BA5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{25D18506-5C83-4011-9569-B4A4F9E992B5}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DevTest|Any CPU = DevTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE4A6343-F411-44A3-8D6F-F40747ED7BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE4A6343-F411-44A3-8D6F-F40747ED7BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE4A6343-F411-44A3-8D6F-F40747ED7BA5}.DevTest|Any CPU.ActiveCfg = DevTest|Any CPU
+		{BE4A6343-F411-44A3-8D6F-F40747ED7BA5}.DevTest|Any CPU.Build.0 = DevTest|Any CPU
+		{BE4A6343-F411-44A3-8D6F-F40747ED7BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE4A6343-F411-44A3-8D6F-F40747ED7BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70C50E25-6F36-4542-8627-6F1EF2C8907D}
+	EndGlobalSection
+EndGlobal
